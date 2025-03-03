@@ -6,15 +6,21 @@ Presidio is particularly useful in industries like healthcare, finance, and cust
 
 
 How Microsoft Presidio Works
+
 Microsoft Presidio consists of two main components:
 
   1.Presidio Analyzer: Identifies sensitive information in unstructured text using NLP models.
+  
   2.Presidio Anonymizer: Replaces or masks the identified PII with placeholders, ensuring data privacy.
+
 
 Key Features:
   -Prebuilt NLP models for detecting common PII entities like names, locations, phone numbers, and emails.
+  
   -Custom recognizers to detect domain-specific sensitive information.
+  
   -Supports multiple languages.
+  
   -Flexible anonymization techniques, including redaction, replacement, and hashing.
 
   
