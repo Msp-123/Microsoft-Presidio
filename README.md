@@ -1,4 +1,4 @@
-Introduction
+Introduction\n
 In today’s world, where data privacy and security are critical, organizations must ensure that personally identifiable information (PII) is protected. Microsoft Presidio is an open-source privacy-preserving text analysis and anonymization tool designed to identify and mask sensitive data, such as names, phone numbers, emails, and addresses.
 
 Presidio is particularly useful in industries like healthcare, finance, and customer support, where handling sensitive data is unavoidable. By automating the detection and anonymization of PII, Presidio helps organizations comply with GDPR, CCPA, and other data protection regulations.
