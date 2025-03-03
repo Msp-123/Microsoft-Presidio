@@ -23,4 +23,14 @@ Key Features:
   
   -Flexible anonymization techniques, including redaction, replacement, and hashing.
 
+
+
+**Detected Entities:**
+
+[type: EMAIL_ADDRESS, start: 118, end: 138, score: 1.0]
+[type: PERSON, start: 11, end: 19, score: 0.85]
+[type: LOCATION, start: 35, end: 43, score: 0.85]
+[type: LOCATION, start: 201, end: 212, score: 0.85]
+[type: LOCATION, start: 229, end: 237, score: 0.85]
+[type: PHONE_NUMBER, start: 153, end: 165, score: 0.4]
   
